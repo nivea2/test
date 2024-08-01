@@ -1,0 +1,16 @@
+{
+  "name": "hej",
+  "symbol": "hej",
+  "description": "En demo SPL-token skapad för att illustrera Metaplex metadata hantering.",
+  "image": "https://example.com/path_to_your_image.png",
+  "attributes": [
+    {
+      "trait_type": "Basfärg",
+      "value": "Blå"
+    },
+    {
+      "trait_type": "Sällsynthet",
+      "value": "Sällsynt"
+    }
+  ]
+}
